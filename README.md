@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/itnext/itnext.github.com.png?label=ready&title=Ready)](https://waffle.io/itnext/itnext.github.com)
 # Simple Portfolio
 
 This code is a simple, personal, and visual portfolio.
